@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程招生宣发页"
+  short_description: "制作蓝白风格招生长页，精简文案并检查电脑与手机排版"
+  default_prompt: "使用 $zhxbai-course-landing-page 将已确认的课程信息制作成简洁、可编辑的招生 HTML 页面。"
